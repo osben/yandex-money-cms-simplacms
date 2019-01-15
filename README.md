@@ -23,7 +23,7 @@
 [Помощь Кассы: отправка чеков по 54-ФЗ](https://yandex.ru/support/checkout/payments/tax-sync.html)
 
 ### Установка модуля
-Для установки данного модуля необходимо поместить содержимое каталога `src` из [архива](https://github.com/yandex-money/yandex-money-cms-simplacms/archive/master.zip) в папку `/payment/YandexMoney` с заменой на новые.
+Для установки данного модуля необходимо поместить папки`YandexFastPay` и `YandexMoney` из [архива](https://github.com/yandex-money/yandex-money-cms-simplacms/archive/master.zip) в папку `/payment/` с заменой на новые.
 
 Пожалуйста, обязательно делайте бекапы!
 
